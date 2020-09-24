@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "sendeva-books-dev"
-        STAGE_PROJECT = "sendeva-books-stage"
+        DEV_PROJECT = "bri2dev9-books-dev"
+        STAGE_PROJECT = "bri2dev9-books-stage"
         APP_GIT_URL = "https://github.com/sendeva/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/nodejs"
 
